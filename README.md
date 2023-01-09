@@ -1,12 +1,8 @@
-# Hi there 👋, my name is Islam Soliman.
-### I am a frontend developer.
+# Hi there 👋, my name is Islam Soliman & I'm a frontend developer.
 
+![New Microsoft PowerPoint Presentation](https://user-images.githubusercontent.com/100162507/211267387-9a148fe2-db1c-4a1e-b0a4-0320d9c099ad.jpg)
 
-<div style='border: 10px solid white'><img src="https://user-images.githubusercontent.com/100162507/211266874-d1ed474e-9efc-47b8-ab10-3bb5f5b52cc6.jpg"></div>
-
-
-
-I ❤️ web development and find beauty in the whole process of websites creation, making them responsive and functional.
+### I ❤️ web development and find beauty in the whole process of websites creation, making them responsive and functional.
 
 ### My Skills:
 
