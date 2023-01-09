@@ -2,7 +2,7 @@
 #### I am a frontend developer.
 ![I am a frontend developer.](https://avatars.githubusercontent.com/u/100162507?s=400&u=7299c534507d62daf7e018a111da51cedaad114b&v=4)
 
-I <3 web development and find beauty in the whole process of websites creation, making them responsive and functional.
+I ❤️ web development and find beauty in the whole process of websites creation, making them responsive and functional.
 
 Skills: HTML / CSS / SASS / SCSS / JavaScript / Figma / Git / Github / Markdown
 
