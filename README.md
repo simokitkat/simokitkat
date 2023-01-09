@@ -6,7 +6,17 @@ I ❤️ web development and find beauty in the whole process of websites creati
 
 ##### Skills:
 
-<img src="https://user-images.githubusercontent.com/100162507/211259912-ef76a1c3-31e1-4ac8-bad6-0cfcdf60dbb0.svg" width='30'> <img src="https://user-images.githubusercontent.com/100162507/211261037-d79099da-c00e-4f18-9557-3c5462008150.svg)" width='30'> 
+<img src="https://user-images.githubusercontent.com/100162507/211259912-ef76a1c3-31e1-4ac8-bad6-0cfcdf60dbb0.svg" width='30'> 
+
+<img src="https://user-images.githubusercontent.com/100162507/211261317-281b28a5-f92a-449a-b88d-04cf6050909e.svg" width='30'>
+
+
+<img src="https://user-images.githubusercontent.com/100162507/211259912-ef76a1c3-31e1-4ac8-bad6-0cfcdf60dbb0.svg" width='30'>
+
+<img src="https://user-images.githubusercontent.com/100162507/211259912-ef76a1c3-31e1-4ac8-bad6-0cfcdf60dbb0.svg" width='30'>
+
+<img src="https://user-images.githubusercontent.com/100162507/211259912-ef76a1c3-31e1-4ac8-bad6-0cfcdf60dbb0.svg" width='30'>
+
 
 - SASS / SCSS
 - JavaScript
