@@ -2,7 +2,7 @@
 ### I am a frontend developer.
 
 
-![New Microsoft PowerPoint Presentation](https://user-images.githubusercontent.com/100162507/211266874-d1ed474e-9efc-47b8-ab10-3bb5f5b52cc6.jpg)
+<img src="https://user-images.githubusercontent.com/100162507/211266874-d1ed474e-9efc-47b8-ab10-3bb5f5b52cc6.jpg" style='border: 10px solid white'>
 
 
 
