@@ -5,7 +5,7 @@
 I ❤️ web development and find beauty in the whole process of websites creation, making them responsive and functional.
 
 ##### Skills: 
-- HTML ![<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://user-images.githubusercontent.com/100162507/211259120-bcbc4c5a-ab6c-4d3e-b9ea-d26613d7a574.svg)' alt='html' height='40'>]
+- HTML ![<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://user-images.githubusercontent.com/100162507/211259120-bcbc4c5a-ab6c-4d3e-b9ea-d26613d7a574.svg)' alt='html' height='40'>] (https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://user-images.githubusercontent.com/100162507/211259120-bcbc4c5a-ab6c-4d3e-b9ea-d26613d7a574.svg)
 - CSS
 - SASS / SCSS
 - JavaScript
