@@ -2,7 +2,7 @@
 ### I am a frontend developer.
 
 
-<img src="https://user-images.githubusercontent.com/100162507/211266874-d1ed474e-9efc-47b8-ab10-3bb5f5b52cc6.jpg" style='border: 10px solid white'>
+<div style='border: 10px solid white'><img src="https://user-images.githubusercontent.com/100162507/211266874-d1ed474e-9efc-47b8-ab10-3bb5f5b52cc6.jpg"></div>
 
 
 
