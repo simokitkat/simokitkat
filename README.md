@@ -13,4 +13,4 @@ Skills: HTML / CSS / SASS / SCSS / JavaScript / Figma / Git / Github / Markdown
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simokitkat)](https://github.com/simokitkat/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simokitkat&count_private=true)](https://github.com/simokitkat/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simokitkat&count_private=true)
