@@ -12,10 +12,10 @@ I ❤️ web development and find beauty in the whole process of websites creati
 
 <img src="https://user-images.githubusercontent.com/100162507/211263403-1d520df9-bcdd-414b-8ae9-96cf532dfd70.svg" width='50'>  <img src="https://user-images.githubusercontent.com/100162507/211263521-078e54b5-700e-483d-a792-dba1cc8035d2.svg" width='50'>
 
-
-
+### You can contact me via:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/simokitkat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/islamsoliman92//)  
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simokitkat&show_icons=true)
 
