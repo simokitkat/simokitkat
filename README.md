@@ -4,7 +4,14 @@
 
 I ❤️ web development and find beauty in the whole process of websites creation, making them responsive and functional.
 
-Skills: HTML / CSS / SASS / SCSS / JavaScript / Figma / Git / Github / Markdown
+##### Skills: 
+- HTML![file_type_html](https://user-images.githubusercontent.com/100162507/211259120-bcbc4c5a-ab6c-4d3e-b9ea-d26613d7a574.svg)
+- CSS
+- SASS / SCSS
+- JavaScript
+- Figma
+- Git / Github
+- Markdown
 
 - 🌱 I’m currently learning TypeScript and React 
 
