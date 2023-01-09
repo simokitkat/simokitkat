@@ -6,7 +6,6 @@ I <3 web development and find beauty in the whole process of websites creation, 
 
 Skills: HTML / CSS / SASS / SCSS / JavaScript / Figma / Git / Github / Markdown
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning TypeScript and React 
 
 
