@@ -6,7 +6,7 @@ I ❤️ web development and find beauty in the whole process of websites creati
 
 ##### Skills:
 
-<img src="https://user-images.githubusercontent.com/100162507/211259912-ef76a1c3-31e1-4ac8-bad6-0cfcdf60dbb0.svg" width='20'>
+<img src="https://user-images.githubusercontent.com/100162507/211259912-ef76a1c3-31e1-4ac8-bad6-0cfcdf60dbb0.svg" width='30'>
 - CSS
 - SASS / SCSS
 - JavaScript
