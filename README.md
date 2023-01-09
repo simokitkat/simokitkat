@@ -2,7 +2,7 @@
 ### I am a frontend developer.
 ![I am a frontend developer.](https://avatars.githubusercontent.com/u/100162507?s=400&u=7299c534507d62daf7e018a111da51cedaad114b&v=4)
 
-I ❤️ web development and find beauty in the whole process of websites creation, making them responsive and functional.
+<p style='font-size:20px'>I ❤️ web development and find beauty in the whole process of websites creation, making them responsive and functional.</p>
 
 #### Skills:
 
