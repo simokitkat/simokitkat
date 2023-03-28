@@ -2,7 +2,7 @@
 
 ![New Microsoft PowerPoint Presentation](https://user-images.githubusercontent.com/100162507/211273214-83cbe52d-8610-469e-a514-7331cdb48ee4.jpg)
 
-### I ❤️ web development and find beauty in the whole process of websites creation, making them responsive and functional.
+### I ❤️ web development and find beauty in the whole process of creating websites and making them responsive and functional.
 
 #### My Skills:
 
