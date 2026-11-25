@@ -51,7 +51,7 @@ I build modern, responsive applications end to end, with a focus on clean interf
   <a href="https://github.com/simokitkat" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" />
   </a>
-  <a href="https://linkedin.com/in/islamsoliman7" target="_blank">
+  <a href="https://www.linkedin.com/in/islamsoliman92" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" />
   </a>
 </p>
