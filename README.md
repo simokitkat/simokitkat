@@ -1,22 +1,61 @@
-# Hi there 👋, my name is Islam Soliman & I'm a frontend developer.
+# Hi there 👋, I'm Islam Soliman — a Full-Stack JavaScript/TypeScript Developer.
 
-![New Microsoft PowerPoint Presentation](https://user-images.githubusercontent.com/100162507/211273214-83cbe52d-8610-469e-a514-7331cdb48ee4.jpg)
+### I love web development and everything in the JavaScript & TypeScript ecosystem.
 
-### I ❤️ web development and find beauty in the whole process of creating websites and making them responsive and functional.
+I build modern, responsive applications end to end, with a focus on clean interfaces, scalable APIs, reliable databases, and great developer experience.
 
-#### My Skills:
+#### 🛠️ Skills
 
-<img src="https://user-images.githubusercontent.com/100162507/211259912-ef76a1c3-31e1-4ac8-bad6-0cfcdf60dbb0.svg" width='50'>  <img src="https://user-images.githubusercontent.com/100162507/211261317-281b28a5-f92a-449a-b88d-04cf6050909e.svg" width='50'>  <img src="https://user-images.githubusercontent.com/100162507/211261707-91c61cc3-2831-47b0-8980-550e7d2df3bf.svg" width='50'>  <img src="https://user-images.githubusercontent.com/100162507/211262049-89318879-b582-44f8-bc56-e35653098176.svg" width='50'>  <img src="https://user-images.githubusercontent.com/100162507/211263521-078e54b5-700e-483d-a792-dba1cc8035d2.svg" width='50'>  <img src="https://user-images.githubusercontent.com/100162507/211262173-a23585aa-72f3-4c0b-b901-d08f804c9779.svg" width='50' height='50'> <img src="https://user-images.githubusercontent.com/100162507/211262239-c258630b-06d6-4f3d-90eb-37bff3c2eaab.svg" width='50'>  <img src="https://user-images.githubusercontent.com/100162507/211262409-05859b3e-2313-4afd-9381-13383bd6e464.svg" width='50'>  <img src="https://user-images.githubusercontent.com/100162507/211262487-aa4f89c6-b24c-4d61-8c17-707e53774797.svg" width='50'>  
+**Frontend**
 
-#### I’m currently learning:
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" /></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="SCSS/Sass" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" /></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="Redux" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" /></a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/100162507/211263403-1d520df9-bcdd-414b-8ae9-96cf532dfd70.svg" width='50'>
+**Backend & Data**
 
-#### You can contact me via:
+<p>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express" /></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="NestJS" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" /></a>
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="50" alt="Prisma" /></a>
+  <a href="https://typeorm.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeorm/typeorm-original.svg" height="50" alt="TypeORM" /></a>
+  <a href="https://graphql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" alt="GraphQL" /></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/simokitkat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/islamsoliman92//)  
+**Tools & DevOps**
 
+<p>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" /></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50" alt="Vite" /></a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simokitkat&show_icons=true)
+#### 💬 Find me on
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simokitkat&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <a href="https://github.com/simokitkat" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/islamsoliman7" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" />
+  </a>
+</p>
+
+![Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=simokitkat&show_icons=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simokitkat&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
